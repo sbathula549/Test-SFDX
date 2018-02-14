@@ -1,0 +1,218 @@
+[
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518580275266,
+            "changeTime": 1518580275266,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518580275266,
+            "changeTime": 1518580275266,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518582536896,
+            "changeTime": 1518582536896,
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518580275266,
+            "changeTime": 1518580275266,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518581487831,
+            "changeTime": 1518581487831,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\objects\\Account\\fields\\location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\objects\\Account\\fields\\location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1518582536856,
+            "changeTime": 1518582536856,
+            "contentHash": "fe3fb3b90a551a9fa2efe23a6ed747b15cddd03c"
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1518582536869,
+            "changeTime": 1518582536869,
+            "contentHash": "efbb3947d62c20bef135de5876abd0e8a2e997bc"
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1518582536879,
+            "changeTime": 1518582536879,
+            "contentHash": "af666b2950ba57e475e29ab22b90070f10089deb"
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1518582536885,
+            "changeTime": 1518582536885,
+            "contentHash": "35afbbf848b6756c90b40e4745a957d69214ef1e"
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1518582536894,
+            "changeTime": 1518582536894,
+            "contentHash": "23388d39ef86074bc4ace323b2ebdeb9cd6b4e71"
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1518582536897,
+            "changeTime": 1518582536897,
+            "contentHash": "e759aa5282c2fa0500b93fba8073ffc0ff9ea514"
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518582536856,
+            "changeTime": 1518582536856,
+            "contentHash": "66024b999a9cbbf64556dffcab012dadf08dc40f"
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518582536854,
+            "changeTime": 1518582536854,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518582536853,
+            "changeTime": 1518582536853,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518582536893,
+            "changeTime": 1518582536893,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\IBM_ADMIN\\Salesforce DX Test Repository\\Geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518582536897,
+            "changeTime": 1518582536897,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
